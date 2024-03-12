@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Gabrielly Pompeo! 😄👋
 
-<!--
-**GabriellyPompeo/GabriellyPompeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**👩🏽‍💻 QA Engineer | React Native Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Specialized in software quality assurance, I always loved technology and wanted to be part of it. So, I've always been a programming and QA enthusiast 😄.
+
+🌱 Experienced in:
+
+- Kanban and Scrum methodology;
+- Azure DevOps and Trello for project management;
+- Adheres to GMUD standards for efficient management processes;
+- Recently, integrated Testmo for test planning;
+- Gherkin for test scenario creation;
+- Manual testing methods;
+- Black-box and white-box texting;
+- Experience-based, functional, and non-functional testing;
+- Mobile testing using Browser Stack and Perfecto;
+- API testing with Postman;
+- SQL querying;
+- React/React Native developer and testes;
